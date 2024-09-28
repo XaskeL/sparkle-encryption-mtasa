@@ -1,0 +1,15 @@
+<meta>
+	<info author="XaskeL" />
+    <oop>true</oop>
+    
+    <script type="shared" cache="false" src="Scripts/Shared/ShUtils.lua" />
+    <script type="server" src="Scripts/Server/SUtils.lua" />
+    <script type="server" src="Scripts/Server/Check.lua" />
+    <script type="client" cache="false" src="Scripts/Client/CUtils.lua" />
+    <script type="client" cache="false" src="Scripts/Client/Replace.lua" />
+    
+    <script type="client" cache="false" src="Config.lua" />
+    
+    <!-- <file type="client" src="Resources/Models/cls63.txd" /> -->
+    <!-- <file type="client" src="Resources/Models/cls63.dff" /> -->
+</meta>
