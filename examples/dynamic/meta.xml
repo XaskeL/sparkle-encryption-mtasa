@@ -1,0 +1,23 @@
+<meta>
+	<info author="UFrimNe" type="script" version="22-01-14" name="Custom vehicle replacer" />
+	<!-- <include resource="Air" /> -->
+	<!-- <include resource="America" /> -->
+	<!-- <include resource="Donate" /> -->
+	<!-- <include resource="Germany" /> -->
+	<!-- <include resource="Japan" /> -->
+	<!-- <include resource="Job_car" /> -->
+	<!-- <include resource="Moto" /> -->
+	<!-- <include resource="Russia" /> -->
+	<!-- <include resource="Water" /> -->
+
+	
+	<script src="utils.lua"	type="shared" cache="false"/>
+	
+	<script src="client_fileList.lua"	type="client" cache="false"/>
+	<script src="client.lua"			type="client" cache="false"/>
+
+	
+	<script src="server.lua" type="server" cache="false"/>
+	
+	<export function="isModelReplaced" type="client"/>
+</meta>
